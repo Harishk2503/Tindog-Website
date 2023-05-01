@@ -4,6 +4,7 @@ body {
 
 }
 
+/* Title Section */
 
 #title {
   background-color: #ff4c68;
@@ -11,6 +12,8 @@ body {
   text-align: left;
 
 }
+
+/* Containers */
 
 .container-fluid{
   padding: 3% 15% 15%;
@@ -28,11 +31,14 @@ p {
   color: #8f8f8f ;
 }
 
+/* Headings */
+
 .bigheading {
   font-family: Montserrat;
   font-size: 3rem;
   line-height: 1.5;
 }
+
 
 .pricetitle {
   font-size:2.5rem;
@@ -52,6 +58,8 @@ em {
   font-size: 2rem;
 }
 
+/* Navigation Bar */
+
 .navbar {
   padding: 0 0 7.5rem;
   padding-top: 2rem;
@@ -70,9 +78,13 @@ em {
 
 }
 
+/* Buttons */
+
 .download-button {
   margin: 5% 3% 5% 0
 }
+
+/* Title Image */
 
 .title-image {
   width: 25%;
@@ -81,6 +93,8 @@ em {
   right: 30%;
 
 }
+
+/* Features Section */
 
 #features {
   padding: 7% 15%;
@@ -110,6 +124,8 @@ color: red;
 .padw {
   margin-left: 15%;
 }
+
+/* Testimonial Section */
 
 #testimonials {
   background-color: #ff4c68
@@ -146,6 +162,9 @@ color: red;
   padding: 3% 2$;
 }
 
+/* CTA Section */
+
+
 @media (max-width:991px) {
 
 #title {
@@ -159,6 +178,8 @@ color: red;
   text-align: center;
   padding: 7% 15%;
 }
+
+/* Footer Section */
 
 #footer {
   padding: 7% 15%;
